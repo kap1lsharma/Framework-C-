@@ -1,0 +1,17 @@
+﻿{
+  "bindingCulture": {
+    "language": "en-us"
+  },
+  "language": {
+    "feature": "en-us"
+  },
+
+  "stepAssemblies": [
+    { "assembly": "Automation.Framework.Core.Web" },
+	  { "assembly": "Automation.Framework.Core.LoyaltyKiosk" },
+    { "assembly": "Automation.Layers.OasisLoyalty" },
+    { "assembly": "OneLink" },
+    { "assembly": "ATI.Automation.Framework.Layers.Mobile" },
+    { "assembly": "ATI.Automation.Framework.Layers.nCompass" }
+  ]
+} 
